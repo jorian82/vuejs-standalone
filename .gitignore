@@ -1,0 +1,11 @@
+# node module files
+**/node_modules
+
+# Visual Studio code config
+**/.vscode
+
+# package-lock file
+**/package-lock.json
+
+# compiled files
+**/dist
